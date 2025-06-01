@@ -1,3 +1,12 @@
+
+
+# Watch the demo
+([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=eGtGEz27XxM))
+
+An intelligent system that recognizes and processes human voice commands for seamless interaction.
+
+
+
 # Online Sales Dashboard Analysis-Using-Power-BI
 ## Project Overview
 This project focuses on tracking and analyzing online sales data across India for the year 2023 using Power BI. The goal is to gain a deeper understanding of sales performance, identify key trends, and recommend strategies to boost sales in 2024. By creating an interactive dashboard, we aim to present complex data in an accessible format to facilitate informed decision-making.
